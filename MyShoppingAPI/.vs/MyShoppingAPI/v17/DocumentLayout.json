@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED803F1-506F-4B70-8440-033A9B21A8B2}|MyShoppingEntity\\MyShoppingEntity.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingentity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED803F1-506F-4B70-8440-033A9B21A8B2}|MyShoppingEntity\\MyShoppingEntity.csproj|solutionrelative:myshoppingentity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AC295E-0BB6-4D09-8E87-35AA5571EF6D}|MyShoppingAPI\\MyShoppingAPI.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6AC295E-0BB6-4D09-8E87-35AA5571EF6D}|MyShoppingAPI\\MyShoppingAPI.csproj|solutionrelative:myshoppingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AC295E-0BB6-4D09-8E87-35AA5571EF6D}|MyShoppingAPI\\MyShoppingAPI.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AC295E-0BB6-4D09-8E87-35AA5571EF6D}|MyShoppingAPI\\MyShoppingAPI.csproj|solutionrelative:myshoppingapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingrepository\\data\\myshoppingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|solutionrelative:myshoppingrepository\\data\\myshoppingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingrepository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|solutionrelative:myshoppingrepository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingrepository\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|solutionrelative:myshoppingrepository\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AC4F35-FA40-4905-B767-36E96A30D18C}|MyShoppingService\\MyShoppingService.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingservice\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AC4F35-FA40-4905-B767-36E96A30D18C}|MyShoppingService\\MyShoppingService.csproj|solutionrelative:myshoppingservice\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AC4F35-FA40-4905-B767-36E96A30D18C}|MyShoppingService\\MyShoppingService.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingservice\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AC4F35-FA40-4905-B767-36E96A30D18C}|MyShoppingService\\MyShoppingService.csproj|solutionrelative:myshoppingservice\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817876DD-C1CA-4F92-A8F9-6DDBF64A3E0E}|ProductTesting1\\ProductTesting1.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\producttesting1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817876DD-C1CA-4F92-A8F9-6DDBF64A3E0E}|ProductTesting1\\ProductTesting1.csproj|solutionrelative:producttesting1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AC295E-0BB6-4D09-8E87-35AA5571EF6D}|MyShoppingAPI\\MyShoppingAPI.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AC295E-0BB6-4D09-8E87-35AA5571EF6D}|MyShoppingAPI\\MyShoppingAPI.csproj|solutionrelative:myshoppingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AC295E-0BB6-4D09-8E87-35AA5571EF6D}|MyShoppingAPI\\MyShoppingAPI.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingapi\\myshoppingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6AC295E-0BB6-4D09-8E87-35AA5571EF6D}|MyShoppingAPI\\MyShoppingAPI.csproj|solutionrelative:myshoppingapi\\myshoppingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingrepository\\migrations\\20241202065457_setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|solutionrelative:myshoppingrepository\\migrations\\20241202065457_setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingrepository\\myshoppingrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|solutionrelative:myshoppingrepository\\myshoppingrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AC4F35-FA40-4905-B767-36E96A30D18C}|MyShoppingService\\MyShoppingService.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingservice\\myshoppingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2AC4F35-FA40-4905-B767-36E96A30D18C}|MyShoppingService\\MyShoppingService.csproj|solutionrelative:myshoppingservice\\myshoppingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\myshoppingapi\\myshoppingrepository\\migrations\\20241211121248_varun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E989A1-6673-40A5-930E-2F1E19E27BF2}|MyShoppingRepository\\MyShoppingRepository.csproj|solutionrelative:myshoppingrepository\\migrations\\20241211121248_varun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MyShoppingRepository\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MyShoppingRepository\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:11:03.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingEntity\\Product.cs",
+              "RelativeDocumentMoniker": "MyShoppingEntity\\Product.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingEntity\\Product.cs",
+              "RelativeToolTip": "MyShoppingEntity\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:59:47.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingService\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MyShoppingService\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingService\\Services\\ProductService.cs",
+              "RelativeToolTip": "MyShoppingService\\Services\\ProductService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:51:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MyShoppingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingAPI\\appsettings.json",
+              "RelativeToolTip": "MyShoppingAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T05:43:05.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MyShoppingRepository\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "MyShoppingRepository\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:03:17.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyshoppingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\Data\\MyshoppingDbContext.cs",
+              "RelativeDocumentMoniker": "MyShoppingRepository\\Data\\MyshoppingDbContext.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\Data\\MyshoppingDbContext.cs",
+              "RelativeToolTip": "MyShoppingRepository\\Data\\MyshoppingDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:34:53.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyShoppingAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyShoppingAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:09:13.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\ProductTesting1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProductTesting1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\ProductTesting1\\UnitTest1.cs",
+              "RelativeToolTip": "ProductTesting1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:18:21.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingService\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MyShoppingService\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingService\\Services\\IProductService.cs",
+              "RelativeToolTip": "MyShoppingService\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:49:38.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241211121248_varun.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\Migrations\\20241211121248_varun.cs",
+              "RelativeDocumentMoniker": "MyShoppingRepository\\Migrations\\20241211121248_varun.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\Migrations\\20241211121248_varun.cs",
+              "RelativeToolTip": "MyShoppingRepository\\Migrations\\20241211121248_varun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:12:48.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyShoppingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingAPI\\Program.cs",
+              "RelativeToolTip": "MyShoppingAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:58:55.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyShoppingAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingAPI\\MyShoppingAPI.csproj",
+              "RelativeDocumentMoniker": "MyShoppingAPI\\MyShoppingAPI.csproj",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingAPI\\MyShoppingAPI.csproj",
+              "RelativeToolTip": "MyShoppingAPI\\MyShoppingAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T11:55:43.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241202065457_setup.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\Migrations\\20241202065457_setup.cs",
+              "RelativeDocumentMoniker": "MyShoppingRepository\\Migrations\\20241202065457_setup.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\Migrations\\20241202065457_setup.cs",
+              "RelativeToolTip": "MyShoppingRepository\\Migrations\\20241202065457_setup.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:54:57.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyShoppingRepository.csproj",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\MyShoppingRepository.csproj",
+              "RelativeDocumentMoniker": "MyShoppingRepository\\MyShoppingRepository.csproj",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingRepository\\MyShoppingRepository.csproj",
+              "RelativeToolTip": "MyShoppingRepository\\MyShoppingRepository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T11:51:10.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyShoppingService.csproj",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingService\\MyShoppingService.csproj",
+              "RelativeDocumentMoniker": "MyShoppingService\\MyShoppingService.csproj",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\MyShoppingAPI\\MyShoppingService\\MyShoppingService.csproj",
+              "RelativeToolTip": "MyShoppingService\\MyShoppingService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T11:54:01.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

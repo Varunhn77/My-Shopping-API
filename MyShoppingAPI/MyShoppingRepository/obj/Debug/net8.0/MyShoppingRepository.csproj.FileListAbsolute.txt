@@ -1,0 +1,17 @@
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\bin\Debug\net8.0\MyShoppingRepository.deps.json
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\bin\Debug\net8.0\MyShoppingRepository.runtimeconfig.json
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\bin\Debug\net8.0\MyShoppingRepository.dll
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\bin\Debug\net8.0\MyShoppingRepository.pdb
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\bin\Debug\net8.0\MyShoppingEntity.dll
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\bin\Debug\net8.0\MyShoppingEntity.pdb
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\MyShoppingRepository.csproj.AssemblyReference.cache
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\MyShoppingRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\MyShoppingRepository.AssemblyInfoInputs.cache
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\MyShoppingRepository.AssemblyInfo.cs
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\MyShoppingRepository.csproj.CoreCompileInputs.cache
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\MyShoppi.75D404F0.Up2Date
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\MyShoppingRepository.dll
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\refint\MyShoppingRepository.dll
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\MyShoppingRepository.pdb
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\MyShoppingRepository.genruntimeconfig.cache
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingRepository\obj\Debug\net8.0\ref\MyShoppingRepository.dll

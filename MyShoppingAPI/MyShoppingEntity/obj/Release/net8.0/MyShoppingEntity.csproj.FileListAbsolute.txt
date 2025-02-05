@@ -1,0 +1,11 @@
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\bin\Release\net8.0\MyShoppingEntity.deps.json
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\bin\Release\net8.0\MyShoppingEntity.dll
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\bin\Release\net8.0\MyShoppingEntity.pdb
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\obj\Release\net8.0\MyShoppingEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\obj\Release\net8.0\MyShoppingEntity.AssemblyInfoInputs.cache
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\obj\Release\net8.0\MyShoppingEntity.AssemblyInfo.cs
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\obj\Release\net8.0\MyShoppingEntity.csproj.CoreCompileInputs.cache
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\obj\Release\net8.0\MyShoppingEntity.dll
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\obj\Release\net8.0\refint\MyShoppingEntity.dll
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\obj\Release\net8.0\MyShoppingEntity.pdb
+C:\Users\vnagaraj\source\repos\MyShoppingAPI\MyShoppingEntity\obj\Release\net8.0\ref\MyShoppingEntity.dll
